@@ -6,3 +6,10 @@
   background-image:url('../images/lake.jpg');
   background-size: cover;
 }
+div > h1 {
+  text-align:center;
+}
+div > p {
+  text-align:center;
+  margin: 0 20%;
+}
