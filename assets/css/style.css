@@ -1,13 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+}
 #container {
   width: 100%;
   height:100vh;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
-  background-image:url('../images/lake.jpg');
-  background-size: cover;
+  background-color:black;
+  background-image: url('../images/lake.jpg');
+
 }
-#container {
+#containermiddle {
   width: 100%;
   height:100vh;
   margin: 0 auto;
@@ -18,21 +30,42 @@
 }
 div > h1 {
   text-align:center;
-  color:white
+  color:white;
+  font-size 3em;
 }
 div > p {
   text-align:center;
   margin: 0 20%;
   color:white;
+  font-size:1em;
  
 }
 h2 {
   color:white;
   text-align: center;
+  font-size:2em;
+}
+h3 {
+  color:white;
+  text-align: center;
+  font-size:1.5em;
+}
+.fas {
+  color:white;
+  text-align: center;
 }
 ul > li {
   color:white;
-  font-size: 1.5em;
+  font-size: 1em;
   list-style-type:none;
 
+}
+#containerbottom {
+  padding:15px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-image:url('../images/hacking.webp');
+  background-size: cover;
 }
