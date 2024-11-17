@@ -3,5 +3,6 @@
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
-    background:url('../images/lake.jpg') no-repeat center center cover;
-  }
+  background-image:url('assets/images/lake.jpg');
+  background-size: cover;
+}
