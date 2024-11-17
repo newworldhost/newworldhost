@@ -1,6 +1,6 @@
-.container {
+#container {
   width: 100%;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
-  background:url(../images/lake.jpg) no-repeat center center cover;
+  background:url('../images/lake.jpg') no-repeat center center cover;
