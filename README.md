@@ -1,5 +1,5 @@
 #active website
-[newworldhost] (http://www.newworldhost.co.uk "newworldhost website")
+[newworldhost](https://newworldhost.github.io/newworldhost/)
 
 #upcoming features
 
