@@ -62,7 +62,7 @@ styled with Bootstrap buttons.
 _Description_: The hero section with a calming background image and positive messaging. 
 
 ### Information Cards 
-![Information Cards](screenshots/information_cards.png) 
+[Information Cards](screenshots/information_cards.png) 
 _Description_: Cards presenting mental health tips and common issues. 
 
 ### Positive Affirmations  
